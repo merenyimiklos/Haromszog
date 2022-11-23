@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Haromszog {
 
+    //ez egy jó feladat volt
+
     public static void main(String[] args) {
     
         Scanner sc = new Scanner(System.in);

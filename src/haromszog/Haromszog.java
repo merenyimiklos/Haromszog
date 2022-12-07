@@ -6,6 +6,8 @@ public class Haromszog {
 
     //ez egy jó feladat volt
 
+    //ez a codespace-ről jött
+
     public static void main(String[] args) {
     
         Scanner sc = new Scanner(System.in);
